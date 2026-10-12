@@ -1,0 +1,4 @@
+Somchai,20
+Suda,19
+Anan,21
+Mali,18
